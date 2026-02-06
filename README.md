@@ -1,5 +1,5 @@
 🌲 Random Forest Classifier with Decision Tree Interpretation
-
+---
 📌 Project Overview
 This project implements a Random Forest Classifier to solve a supervised classification problem using Python.
 In addition to training the ensemble model, an individual Decision Tree from the forest is visualized to enhance model interpretability and explain feature-based decision logic.
